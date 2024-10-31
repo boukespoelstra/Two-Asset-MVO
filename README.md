@@ -1,5 +1,4 @@
-# 2ASSMVO
-Two-Asset Mean Variance Optimization
+# Two-Asset Mean Variance Optimization
 Author: Bouke Spoelstra
 
 This code is intended for educational purposes to demonstrate a sharpe-ratio maximization form of Markowitz Modern Portfolio Theory optimization.
